@@ -40,4 +40,4 @@ Os seguintes materiais foram produzidos a partir da análise das fontes no Gemin
 ---
 
 ## 🔗 Link do Notebook Compartilhado
-* [Acesse o Gemini Notebook Compartilhado aqui]([https://notebook.google.com/](https://github.com/dimsouza79-spec/mlops-second-brain-notebook/tree/main))
+* [Acesse o Gemini Notebook Compartilhado [aqui](https://github.com/dimsouza79-spec/mlops-second-brain-notebook/tree/main)]
