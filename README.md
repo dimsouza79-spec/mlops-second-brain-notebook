@@ -29,7 +29,7 @@ As fontes abaixo foram selecionadas em aba anônima e validadas pela sua autorid
 * **Resposta do Notebook:** 
   O notebook estruturou a resposta detalhando os desafios operacionais (como desalinhamento entre treino e produção, degradação de modelos e complexidade de processos manuais) e apresentou as estratégias arquiteturais de escalabilidade, destacando servidores de alta performance para FastAPI, testes de carga, escalabilidade horizontal e observabilidade ativa.
 * **Evidência no Chat:** 
-  * *Print de comprovação das citações:* `assets/chat-citation-screenshot.png`
+  * *Print de comprovação das citações:* chat-citation-screenshot.png
 
 ---
 
