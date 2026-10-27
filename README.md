@@ -26,17 +26,16 @@ As fontes abaixo foram selecionadas em aba anônima e validadas pela sua autorid
 ### Pergunta:
 > *"Quais são os principais desafios ao expor um modelo de Machine Learning através de uma API com FastAPI e como garantir escalabilidade em produção?"*
 
-* **Resposta do Notebook:** 
+* **Resposta do Notebook:**
   O notebook estruturou a resposta detalhando os desafios operacionais (como desalinhamento entre treino e produção, degradação de modelos e complexidade de processos manuais) e apresentou as estratégias arquiteturais de escalabilidade, destacando servidores de alta performance para FastAPI, testes de carga, escalabilidade horizontal e observabilidade ativa.
-* **Evidência no Chat:** 
-  * *Print de comprovação das citações:* chat-citation-screenshot.png
+* **Evidência no Chat:**
+  * 📊 **Print de Comprovação:** Salvo no repositório (`chat-citation-screenshot.png`).
 
 ---
 
 ## 📂 Materiais Gerados no Estúdio
 Os seguintes materiais foram produzidos a partir da análise das fontes no Gemini Notebook:
 * 🎧 **Resumo em Áudio (Audio Overview):** Sintetizado para revisão offline dos conceitos de MLOps.
-* 📊 **Evidências do Chat:** Salvas na pasta `assets/`.
 
 ---
 
